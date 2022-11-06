@@ -62,7 +62,9 @@ p {
   text-decoration: none;
   text-transform: capitalize;
 }
-
+.navbar-brand img {
+  max-width: 50px;
+}
 .contact-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
